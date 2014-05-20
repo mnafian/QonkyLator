@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QonkyLator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="plus">+</string>
+    <string name="min">-</string>
+    <string name="kali">*</string>
+    <string name="bagi">:</string>
+    <string name="hasil">=</string>
+    
+
+</resources>
